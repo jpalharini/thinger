@@ -5,12 +5,13 @@ Script to convert a plain text list to a Things project
 Thinger will convert the following text into a project called "My Project" with to-dos "Task 1", "Task 2" and "Task 3". The last two to-dos have notes within them that will also be added.
 
 ```
-proj Jira Deployment
-- Bot to reply in channel
-  Prevent any interaction without ticket
-  Include instructions to create ticket
-- Description of issue
-  Tip should be "add error log, when problem started, impact to your tasks"
+proj My Project
+- Task 1
+  One note
+  Two notes
+- Task 2
+  Some note
+- Task 3
 ```
 
 # Future work
