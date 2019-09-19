@@ -14,7 +14,7 @@ proj My Project
 - Task 3
 ```
 
-# Future work
+## Future work
 - Add more projects in the same file
 - Add to-dos outside of a project
 - Add checklist items in to-dos
