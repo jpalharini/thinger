@@ -15,8 +15,6 @@ proj My Project
 ```
 
 ## Future work
-- Add more projects in the same file
-- Add to-dos outside of a project
-- Add checklist items in to-dos
+Tracked in [Github Issues](https://github.com/jpalharini/thinger/issues)
 
-Feel free to suggest more in "Issues".
+Feel free to suggest more or report bugs.
